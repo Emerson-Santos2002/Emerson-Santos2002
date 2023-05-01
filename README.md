@@ -2,9 +2,9 @@
 
 Sou um desenvolvedor Android que programo desde 2018 com Java e Kotlin, comecei a programar no IFBA campus de Camaçari na Bahia quando fiz o Ensino Médio mais o curso técnico de informática onde tive meu primeiro contato com o Java, ao final do curso procurei outras linguagens e encontrei o Kotlin e desde então me divirto com ela.
 
-**Atualmente:** DESCREVE SEU CENÁRIO ATUAL, SEJA TRABALHANDO OU ESTUDANDO.
+Atualmente Continuo mantendo meus estudos e me aprofundo cada vez mais nesse universo.
 
-**Estudando:** DESCREVA O QUE ESTÁ ESTUDANDO ATUALMENTE DE FORMA MAIS APROFUNDADA.
+Estudando atualmente ReactNative e seus principais componentes e estruturas para montar uma UI completa.
 
 
 # 📧 Contato:
