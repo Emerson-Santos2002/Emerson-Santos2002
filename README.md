@@ -4,7 +4,7 @@ Sou um desenvolvedor Android que programo desde 2018 com Java e Kotlin, comecei 
 
 Atualmente Continuo mantendo meus estudos e me aprofundo cada vez mais nesse universo.
 
-Estudando atualmente ReactNative e seus principais componentes e estruturas para montar uma UI completa.
+Estudando atualmente Jetpack Compose e seus principais componentes e estruturas para montar uma UI completa, e entendendo o funcionamento com o KMM(Kotlin MUltiPlatform).
 
 
 # 📧 Contato:
